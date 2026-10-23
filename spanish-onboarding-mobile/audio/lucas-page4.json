@@ -1,0 +1,83 @@
+{
+  "text": "I give you the stories and familiar connections behind new words to help them stick.",
+  "audioSha256": "a27e5c505b9f65db3aa452a191729d2dee69fe2d236072de5cb3e47e52a24850",
+  "words": [
+    {
+      "word": "I",
+      "start": 0.084,
+      "end": 0.164
+    },
+    {
+      "word": "give",
+      "start": 0.244,
+      "end": 0.324
+    },
+    {
+      "word": "you",
+      "start": 0.364,
+      "end": 0.404
+    },
+    {
+      "word": "the",
+      "start": 0.484,
+      "end": 0.564
+    },
+    {
+      "word": "stories",
+      "start": 0.884,
+      "end": 1.204
+    },
+    {
+      "word": "and",
+      "start": 1.284,
+      "end": 1.364
+    },
+    {
+      "word": "familiar",
+      "start": 1.444,
+      "end": 1.844
+    },
+    {
+      "word": "connections",
+      "start": 1.924,
+      "end": 2.484
+    },
+    {
+      "word": "behind",
+      "start": 2.564,
+      "end": 2.884
+    },
+    {
+      "word": "new",
+      "start": 2.964,
+      "end": 3.124
+    },
+    {
+      "word": "words",
+      "start": 3.204,
+      "end": 3.604
+    },
+    {
+      "word": "to",
+      "start": 3.684,
+      "end": 3.764
+    },
+    {
+      "word": "help",
+      "start": 3.844,
+      "end": 3.924
+    },
+    {
+      "word": "them",
+      "start": 4.004,
+      "end": 4.164
+    },
+    {
+      "word": "stick.",
+      "start": 4.244,
+      "end": 4.88
+    }
+  ],
+  "cueTime": null,
+  "duration": 4.88
+}

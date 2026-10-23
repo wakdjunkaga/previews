@@ -1,0 +1,108 @@
+{
+  "text": "Most courses hand you lists to memorize: animals, clothes, grammar tables. Then, when it’s time to speak, nothing comes out.",
+  "audioSha256": "d058fe00999f3473d8e3541299db560802a339259f3c0fd02668a7907e96c98a",
+  "words": [
+    {
+      "word": "Most",
+      "start": 0.084,
+      "end": 0.324
+    },
+    {
+      "word": "courses",
+      "start": 0.564,
+      "end": 0.804
+    },
+    {
+      "word": "hand",
+      "start": 0.884,
+      "end": 1.044
+    },
+    {
+      "word": "you",
+      "start": 1.124,
+      "end": 1.284
+    },
+    {
+      "word": "lists",
+      "start": 1.364,
+      "end": 1.764
+    },
+    {
+      "word": "to",
+      "start": 1.804,
+      "end": 1.844
+    },
+    {
+      "word": "memorize:",
+      "start": 1.924,
+      "end": 2.884
+    },
+    {
+      "word": "animals,",
+      "start": 3.204,
+      "end": 3.684
+    },
+    {
+      "word": "clothes,",
+      "start": 3.764,
+      "end": 4.564
+    },
+    {
+      "word": "grammar",
+      "start": 4.764,
+      "end": 4.964
+    },
+    {
+      "word": "tables.",
+      "start": 5.204,
+      "end": 6.004
+    },
+    {
+      "word": "Then,",
+      "start": 6.204,
+      "end": 6.457
+    },
+    {
+      "word": "when",
+      "start": 6.511,
+      "end": 6.564
+    },
+    {
+      "word": "it’s",
+      "start": 6.604,
+      "end": 6.724
+    },
+    {
+      "word": "time",
+      "start": 6.804,
+      "end": 6.884
+    },
+    {
+      "word": "to",
+      "start": 6.964,
+      "end": 7.044
+    },
+    {
+      "word": "speak,",
+      "start": 7.124,
+      "end": 7.844
+    },
+    {
+      "word": "nothing",
+      "start": 7.924,
+      "end": 8.164
+    },
+    {
+      "word": "comes",
+      "start": 8.244,
+      "end": 8.404
+    },
+    {
+      "word": "out.",
+      "start": 8.484,
+      "end": 8.88
+    }
+  ],
+  "cueTime": null,
+  "duration": 8.88
+}
